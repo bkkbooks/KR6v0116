@@ -1,0 +1,57 @@
+canonical_identifier: bkk:krp/KR6v0116/v1
+canonical_location: https://kanripo.org/bkk/KR6v0116/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 讚禮地藏菩薩懺悔發願法
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW11/ZW11n0089.xml
+    old_id: ZW11n0089
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0116_000.yaml, hash: 'sha256:3562f9ad2bb7146577c5a90159e86bee8fe7585b14d43bef19d82ca5ce71cc11'}
+  - {seq: 1, filename: KR6v0116_001.yaml, hash: 'sha256:b802ceb4e7272085cd28274ba30bfef92161474c03b1761c7dfeca2e46615502'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0116_000.markers.yaml, hash: 'sha256:ef897a41139667d81ce6e80297df8fba99ca826d88f5508bbdf95fb28065e953'}
+  - {seq: 1, role: markers, filename: assets/KR6v0116_001.markers.yaml, hash: 'sha256:3ad815b1ff23ae1c8fec61e5005c6503ccc59446c826440fb3653f1f893999ff'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0116_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0116_ZW_000-mulu-2
+    span:
+    - front
+    - 644
+    - 644
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0116_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 1098
+  label: 讚禮地藏菩薩懺悔發願法
+  type: juan
+  level: 1
+hash: sha256:7c7586c7f560ae45a79872c9663fa9c3e4d4369d7eed249ba76afb21f2204ad6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: ZW
