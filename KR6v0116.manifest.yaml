@@ -13,11 +13,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0116_000.yaml, hash: 'sha256:3562f9ad2bb7146577c5a90159e86bee8fe7585b14d43bef19d82ca5ce71cc11'}
-  - {seq: 1, filename: KR6v0116_001.yaml, hash: 'sha256:b802ceb4e7272085cd28274ba30bfef92161474c03b1761c7dfeca2e46615502'}
+  - {seq: 0, filename: KR6v0116_000.yaml, hash: 'sha256:3e1c722d12901054bdc5b734bc93d88c9cc6f4dabcec07fd9b83d659cfd86af0'}
+  - {seq: 1, filename: KR6v0116_001.yaml, hash: 'sha256:d75a390837ca333482177a7f44aaab4b1635a09cdf68e8167266413ef65bbe0e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0116_000.markers.yaml, hash: 'sha256:ef897a41139667d81ce6e80297df8fba99ca826d88f5508bbdf95fb28065e953'}
-  - {seq: 1, role: markers, filename: assets/KR6v0116_001.markers.yaml, hash: 'sha256:3ad815b1ff23ae1c8fec61e5005c6503ccc59446c826440fb3653f1f893999ff'}
+  - {seq: 0, role: markers, filename: assets/KR6v0116_000.markers.yaml, hash: 'sha256:31306d9611c77376a462dd5dbf9e7428273798a225eae657fd32af3b754501cf'}
+  - {seq: 1, role: markers, filename: assets/KR6v0116_001.markers.yaml, hash: 'sha256:52bf9f5ff0a43bc8066704ec09a58852b30e830cd8e39dd41319b744c92897e1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -49,9 +49,6 @@ table_of_contents:
   label: 讚禮地藏菩薩懺悔發願法
   type: juan
   level: 1
-hash: sha256:7c7586c7f560ae45a79872c9663fa9c3e4d4369d7eed249ba76afb21f2204ad6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f6651cc7df5fec6166710cfedb7d5f43f7cf99e49c0e3ae58bb9c38eca9e5292
 editions:
 - short: ZW
