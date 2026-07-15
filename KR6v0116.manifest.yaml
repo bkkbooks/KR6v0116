@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0116/v1
 canonical_location: https://kanripo.org/bkk/KR6v0116/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 讚禮地藏菩薩懺悔發願法
   source:
@@ -13,11 +13,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0116_000.yaml, hash: 'sha256:3e1c722d12901054bdc5b734bc93d88c9cc6f4dabcec07fd9b83d659cfd86af0'}
-  - {seq: 1, filename: KR6v0116_001.yaml, hash: 'sha256:d75a390837ca333482177a7f44aaab4b1635a09cdf68e8167266413ef65bbe0e'}
+  - {seq: 0, filename: KR6v0116_000.yaml, hash: 'sha256:6253dbea6e4ccb19df3631c442e1d2d9b759f721fb331ab7d9113534ca273a48'}
+  - {seq: 1, filename: KR6v0116_001.yaml, hash: 'sha256:3702b49ae4ba834869c5934624504958868bd53262c9e240ef8f38bf24ba6c02'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0116_000.markers.yaml, hash: 'sha256:31306d9611c77376a462dd5dbf9e7428273798a225eae657fd32af3b754501cf'}
-  - {seq: 1, role: markers, filename: assets/KR6v0116_001.markers.yaml, hash: 'sha256:52bf9f5ff0a43bc8066704ec09a58852b30e830cd8e39dd41319b744c92897e1'}
+  - {seq: 0, role: markers, filename: assets/KR6v0116_000.markers.yaml, hash: 'sha256:025d66d97dfba8f89de861919476eaecb7a7d594fc055d3679c56a9c124208e6'}
+  - {seq: 1, role: markers, filename: assets/KR6v0116_001.markers.yaml, hash: 'sha256:71a3fc957de389ab64b6bb552d0b22ed7f2cfad204870931288ef3fc8c43aa02'}
 table_of_contents:
 - ref:
     seq: 0
@@ -49,6 +49,9 @@ table_of_contents:
   label: 讚禮地藏菩薩懺悔發願法
   type: juan
   level: 1
-hash: sha256:f6651cc7df5fec6166710cfedb7d5f43f7cf99e49c0e3ae58bb9c38eca9e5292
+hash: sha256:0131cba22dd0f1ac430357e2ffae8148b73ca85c9e153dc1eb256d032ef95761
 editions:
 - short: ZW
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
