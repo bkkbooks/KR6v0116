@@ -13,17 +13,17 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0116_000.yaml, hash: 'sha256:6253dbea6e4ccb19df3631c442e1d2d9b759f721fb331ab7d9113534ca273a48'}
+  - {seq: 0, filename: KR6v0116_000.yaml, hash: 'sha256:5bba6f3fed37e67a5d3f48dd93f7d2941af77849a17461f7fb00d4fd240699ad'}
   - {seq: 1, filename: KR6v0116_001.yaml, hash: 'sha256:3702b49ae4ba834869c5934624504958868bd53262c9e240ef8f38bf24ba6c02'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0116_000.markers.yaml, hash: 'sha256:025d66d97dfba8f89de861919476eaecb7a7d594fc055d3679c56a9c124208e6'}
+  - {seq: 0, role: markers, filename: assets/KR6v0116_000.markers.yaml, hash: 'sha256:7fb0ca14336bf4d4f701f79d3d6c81f801710b314dbb3d3d9c444b3b7abd4b5c'}
   - {seq: 1, role: markers, filename: assets/KR6v0116_001.markers.yaml, hash: 'sha256:71a3fc957de389ab64b6bb552d0b22ed7f2cfad204870931288ef3fc8c43aa02'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0116_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0116_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 644
     - 644
   label: 錄文
@@ -49,7 +49,7 @@ table_of_contents:
   label: 讚禮地藏菩薩懺悔發願法
   type: juan
   level: 1
-hash: sha256:0131cba22dd0f1ac430357e2ffae8148b73ca85c9e153dc1eb256d032ef95761
+hash: sha256:9f702afd9c488461d05a6af99e4853538ed4d019291b86a43a8ceabb93d8862d
 editions:
 - short: ZW
 mappings:
